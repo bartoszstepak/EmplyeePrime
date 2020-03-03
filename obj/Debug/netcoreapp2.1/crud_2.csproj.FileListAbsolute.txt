@@ -1,0 +1,160 @@
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\BARTOSZS\Desktop\projekt2\crud_back_2\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartek\Desktop\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca_crud_23.03\crud_back_22.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\New folder\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\24.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca\26.03\crud_back_26.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\praca\26.03\crud_back_27.03.2019\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Desktop\praca\27.03\crud_back_24.03.2019\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\BARTOSZS\Desktop\praca\01.04\Work_Crud-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.deps.json
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.json
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.runtimeconfig.dev.json
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\bin\Debug\netcoreapp2.1\crud_2.pdb
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csprojAssemblyReference.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.Properties.Resources.resources
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.GenerateResource.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorAssemblyInfo.cs
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfoInputs.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.AssemblyInfo.cs
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.RazorTargetAssemblyInfo.cache
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.dll
+C:\Users\Bartosz Stępak\Documents\_projekty\work_crud_final-master\crud_back_login\crud_2\obj\Debug\netcoreapp2.1\crud_2.pdb
