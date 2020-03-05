@@ -15,24 +15,20 @@ namespace crud_2.Controllers
     [ApiController]
     public class MyTasksController : ControllerBase
     {
-        private readonly EmployeeContext _context;
         private readonly IMyTaskBLL _myTaskBLL;
 
-        public MyTasksController(EmployeeContext context, IMyTaskBLL myTaskBLL)
+        public MyTasksController( IMyTaskBLL myTaskBLL)
         {
-            _context = context;
             _myTaskBLL = myTaskBLL;
         }
 
-        // GET: api/MyTasks
         [HttpGet]
         public IEnumerable<MyTaskDTO> GetTasks()
         {
-            var tasks = this._myTaskBLL.getTasks();
+            var tasks = this._myTaskBLL.GetTasks();
             return tasks;
         }
 
-        // GET: api/MyTasks/5
         [HttpGet("{id}")]
         public async Task<IActionResult> GetTask([FromRoute] int id)
         {
@@ -41,7 +37,7 @@ namespace crud_2.Controllers
                 return BadRequest(ModelState);
             }
 
-            var myTask = await _context.MyTasks.FindAsync(id);
+            var myTask = await _myTaskBLL.GetTask(id);
 
             if (myTask == null)
             {
@@ -51,7 +47,6 @@ namespace crud_2.Controllers
             return Ok(myTask);
         }
 
-        // GET: api/MyTasks/5
         [HttpGet]
         [Route("User/{id}")]
         public async Task<IActionResult> GetTaskConnectedToUser([FromRoute] int id)
@@ -61,8 +56,7 @@ namespace crud_2.Controllers
                 return BadRequest(ModelState);
             }
 
-            //var myTask = await _context.MyTasks.FindAsync(id);
-            var userTasks = this._myTaskBLL.getUserTasks(id);
+            var userTasks =  _myTaskBLL.GetUserTasks(id);
 
             if (userTasks == null)
             {
@@ -72,7 +66,6 @@ namespace crud_2.Controllers
             return Ok(userTasks);
         }
 
-        // PUT: api/MyTasks/5
         [HttpPut("{id}")]
         public async Task<IActionResult> PutTask([FromRoute] int id, [FromBody] MyTask myTask)
         {
@@ -86,28 +79,15 @@ namespace crud_2.Controllers
                 return BadRequest();
             }
 
-            _context.Entry(myTask).State = EntityState.Modified;
+            var isTaskSeved = await _myTaskBLL.UpdateTask(id, myTask);
 
-            try
-            {
-                await _context.SaveChangesAsync();
-            }
-            catch (DbUpdateConcurrencyException)
-            {
-                if (!MyTaskExists(id))
-                {
-                    return NotFound();
-                }
-                else
-                {
-                    throw;
-                }
+            if (isTaskSeved) {
+                return NoContent();
             }
 
-            return NoContent();
+            return NotFound();
         }
 
-        // POST: api/MyTasks
         [HttpPost]
         public async Task<IActionResult> PostTask([FromBody] MyTask myTask)
         {
@@ -116,7 +96,7 @@ namespace crud_2.Controllers
                 return BadRequest(ModelState);
             }
 
-            var createdTask = await _myTaskBLL.createTask(myTask);
+            var createdTask = await _myTaskBLL.CreateTask(myTask);
 
 
             if (createdTask != null)
@@ -127,7 +107,6 @@ namespace crud_2.Controllers
             return NotFound();
         }
 
-        // DELETE: api/MyTasks/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTask([FromRoute] int id)
         {
@@ -136,21 +115,22 @@ namespace crud_2.Controllers
                 return BadRequest(ModelState);
             }
 
-            var myTask = await _context.MyTasks.FindAsync(id);
-            if (myTask == null)
+            var deletedTask = await _myTaskBLL.GetTask(id);
+
+            if(deletedTask == null)
             {
                 return NotFound();
             }
 
-            _context.MyTasks.Remove(myTask);
-            await _context.SaveChangesAsync();
+            var isTaskDeleted = await _myTaskBLL.DeleteTask(id);
 
-            return Ok(myTask);
+            if (isTaskDeleted) 
+            {
+                return Ok(deletedTask);
+            }
+
+            return NotFound();
         }
 
-        private bool MyTaskExists(int id)
-        {
-            return _context.MyTasks.Any(e => e.id == id);
-        }
     }
 }
